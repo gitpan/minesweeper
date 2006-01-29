@@ -1,0 +1,3 @@
+minesweeper is a Perl::Tk version of the popular mnesweeper game. I wrote this as my first Perl::Tk script and it as messy as can be expected.
+This version is known to work on UNIX ans Linux. As for Windows, the GUI works however the timer may or may not count depending on whether your version supports alarm.
+For any question, please contanct levengli@yahoo.com
